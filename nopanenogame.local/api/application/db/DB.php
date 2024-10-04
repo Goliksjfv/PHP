@@ -6,7 +6,7 @@ class DB {
     function __construct() {
         // MySQL
         
-        $host = '127.0.0.1';
+        $host = 'localhost';
         $port = '8889';
         $user = 'root';
         $pass = '00000000';
